@@ -1,0 +1,27 @@
+# Java
+build/
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Documentos firmados, lotes y reportes generados
+lotes/
+muestras_grandes/
+*.pdf
+*.xml
+*.xlsx
+
+# Sistema operativo / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
